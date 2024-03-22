@@ -21,4 +21,4 @@ The relationship between State of Charge (SoC) and voltage is visualized through
 
 
 ### Journal
-If you are interested in my research, you can deeply read my journal and undertand it by reaching it on this Link. https://bit.ly/4a7hQc2
+If you are interested in my research, you can deeply read my journal and understand it by reaching it on this Link. https://bit.ly/4a7hQc2
